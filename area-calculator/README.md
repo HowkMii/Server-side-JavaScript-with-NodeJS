@@ -1,0 +1,3 @@
+Abdelhakim has a plan to renovate his barn by creating separate areas for his animals. He believes that this will help him manage his animals more easily, and avoid the issue of animals getting mixed up. His plan is to divide the barn into three parts: a square area for the chickens, a circular area for the ducks, and a rectangular area for the cows.
+
+To help Abdelhakim with his design, you can create an area calculator application that will allow him to calculate the area of each shape. This will make it easier for him to plan the size of the areas he needs to create, and to determine how much fencing he will need.
